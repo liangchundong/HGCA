@@ -1,6 +1,6 @@
 # Analyzing Heterogeneous Network with Missing Attributes by Unsupervised Contrastive Learning
 This repository contains the code of the paper:
->[Analyzing Heterogeneous Network with Missing Attributes by Unsupervised Contrastive Learning]()
+>[Analyzing Heterogeneous Network with Missing Attributes by Unsupervised Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/9724614)
 
 which has been accepted by *TNNLS*.
 ## Dependencies
